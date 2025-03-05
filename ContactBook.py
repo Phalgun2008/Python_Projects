@@ -70,7 +70,6 @@ while True:
       print(list(Contacts))
 
 #7. Exit Program
-
  elif Choice == '7':
       print("Program Closed")
       
